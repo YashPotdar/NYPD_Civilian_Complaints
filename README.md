@@ -6,6 +6,7 @@ I worked on these projects with Kenneth Nguyen, a fellow Data Science major at U
 
 ## nypd_permutation_test.ipynb
 **Goal**: To determine whether complaints made by Black individuals have a varying degree of success than complaints made by non-Black individuals
+
 This project has three focuses:
 1. Data cleaning process and exploratory data analysis (EDA)
 2. Assessment of Missingness of Data
